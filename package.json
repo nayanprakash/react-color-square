@@ -5,7 +5,7 @@
   "main": "build/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/codewithbernard/react-color-square.git"
+    "url": "https://github.com/nayanprakash/react-color-square.git"
   },
   "peerDependencies": {
     "react": "^16.4.0"
